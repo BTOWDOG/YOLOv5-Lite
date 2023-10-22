@@ -1,0 +1,7 @@
+test: E:\YOLOv5-Lite\bset-2\images\test-1
+train: E:\YOLOv5-Lite\bset-2\images\train-1
+val: E:\YOLOv5-Lite\bset-2\images\valid-1
+
+nc: 7
+
+names: ["battery", "drug", "cans", "bottle", "carrot", "white-radish", "potato"]
